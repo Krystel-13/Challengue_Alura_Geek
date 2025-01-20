@@ -1,0 +1,1143 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v1_3 {
+  width: 100%;
+  height: 1024px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v2_11 {
+  width: 100%;
+  height: 129px;
+  background: url("../images/v2_11.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 895px;
+  left: 0px;
+  overflow: hidden;
+}
+.v2_7 {
+  width: 100%;
+  height: 129px;
+  background: rgba(40,2,43,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v2_27 {
+  width: 253px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 30px;
+  left: 593px;
+  font-family: Press Start 2P;
+  font-weight: Regular;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+.v2_27 {
+  width: 253px;
+  color: rgba(255, 255, 255, 1); /* Color blanco */
+  position: absolute;
+  top: 30px;
+  left: 593px;
+  font-family: 'Press Start 2P', cursive; /* Asegúrate de que esté correctamente referenciada */
+  font-weight: normal; /* Cambiar "Regular" por "normal" */
+  font-size: 25px; /* Tamaño de la fuente */
+  opacity: 1;
+  text-align: left; /* Alineación del texto */
+}
+
+.v14_49 {
+  width: 298px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 65px;
+  left: 571px;
+  font-size: 16px;
+  opacity: 1;
+  text-align: center;
+}
+.v14_49 {
+  width: 298px;
+  color: rgba(255, 255, 255, 1); /* Color blanco */
+  position: absolute;
+  top: 50px;
+  left: 571px;
+  font-size: 16px; /* Tamaño de la fuente */
+  opacity: 1;
+  text-align: center; /* Alinea el texto al centro */
+  white-space: pre-line; /* Permite que los saltos de línea funcionen */
+}
+
+.v14_49 .first-line {
+  font-family: 'IBM Plex Mono', monospace; /* Fuente Regular para la primera línea */
+  font-weight: 400; /* Peso Regular */
+}
+
+.v14_49 .second-line {
+  font-family: 'IBM Plex Mono', monospace; /* Fuente ExtraLight para la segunda línea */
+  font-weight: 200; /* Peso ExtraLight */
+}
+
+/* Espaciado entre las líneas */
+.v14_49 br {
+  display: block;
+  content: "";
+  margin-bottom: -15px; /* Cambia el valor de 10px para ajustar el espacio entre las líneas */
+}
+
+.v2_10 {
+  width: 100%;
+  height: 802px;
+  background: url("../images/v2_10.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 93px;
+  left: 0px;
+  overflow: hidden;
+}
+.v2_5 {
+  width: 100%;
+  height: 802px;
+  background: rgba(131,60,136,0.6800000071525574);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v14_114 {
+  width: 858px;
+  height: 717px;
+  background: url("../images/v14_114.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 69px;
+  left: 532px;
+  overflow: hidden;
+}
+.v2_25 {
+  width: 858px;
+  height: 717px;
+  background: rgba(131,60,136,0.6800000071525574);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border: 3px solid rgba(40,2,43,1);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v2_25 {
+  width: 858px;
+  height: 717px;
+  background: rgba(131, 60, 136, 0.68);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border: 3px solid rgba(40, 2, 43, 1);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  
+  /* Cambiar 'overflow' para permitir el scroll */
+  overflow: scroll; /* Esto permite que aparezca un scroll si el contenido es demasiado grande */
+}
+
+.v14_113 {
+  width: 244px;
+  height: 313px;
+  background: url("../images/v14_113.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 383px;
+  left: 536px;
+  overflow: hidden;
+}
+.v2_40 {
+  width: 244px;
+  height: 313px;
+  background: rgba(151,71,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border: 3px solid rgba(40,2,43,1);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v14_4 {
+  width: 168px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 218px;
+  left: 20px;
+  font-family: IBM Plex Mono;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v14_16 {
+  width: 142px;
+  color: rgba(40,2,43,1);
+  position: absolute;
+  top: 270px;
+  left: 20px;
+  font-family: IBM Plex Mono;
+  font-weight: Bold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v2_59 {
+  width: 208px;
+  height: 170px;
+  background: url("../images/v2_59.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 22px;
+  left: 19px;
+  border: 3px solid rgba(40,2,43,1);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+
+#product-list {
+  display: grid; /* Activa el diseño de cuadrícula */
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); /* Columnas ajustables */
+  gap: 20px; /* Espacio entre los productos */
+  max-height: 500px; /* Altura máxima del contenedor */
+  overflow-y: auto; /* Scroll vertical */
+  padding: 10px; /* Espaciado interno */
+  border: 2px solid rgba(40,2,43,1); /* Opcional, para delimitar */
+  border-radius: 10px; /* Opcional, bordes redondeados */
+}
+
+/* Contenedor principal */
+#product-list {
+  display: flex;
+  flex-direction: column; /* Apilar filas verticalmente */
+  gap: 20px;
+  max-height: 500px;
+  overflow-y: auto; /* Habilitar scroll vertical */
+  padding: 10px;
+  border: 2px solid rgba(40, 2, 43, 1);
+  border-radius: 10px;
+  width: 100%;
+}
+
+/* Fila de productos */
+.product-row {
+  display: flex; /* Productos en línea */
+  gap: 20px; /* Espaciado entre productos */
+  justify-content: flex-start;
+}
+
+/* Nuevo producto */
+.new-product {
+  flex: 0 1 calc(33.33% - 20px); /* Tamaño de cada producto en una fila de 3 */
+  box-sizing: border-box;
+  position: relative;
+  background-color: rgba(151, 71, 255, 1); /* Fondo morado claro */
+  border: 3px solid rgba(40, 2, 43, 1); /* Bordes morados oscuros */
+  border-radius: 10px;
+  padding: 20px;
+}
+
+/* Imagen del nuevo producto */
+.new-product-image {
+  width: 208px;
+  height: 170px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  border: 3px solid rgba(40, 2, 43, 1);
+  border-radius: 10px;
+  overflow: hidden;
+  position: relative;
+}
+
+/* Texto del nuevo producto */
+/* Nombre del nuevo producto */
+.new-product-name {
+  display: block;
+  margin: 15px 0;
+  font-size: 20px;
+  font-family: 'IBM Plex Mono', sans-serif; /* Fuente Regular */
+  font-weight: 400; /* Regular */
+  color: rgba(40, 2, 43, 1); /* Color morado oscuro */
+  text-align: left;
+}
+
+/* Precio del nuevo producto */
+.new-product-price {
+  display: block;
+  margin: 10px 0;
+  font-size: 20px;
+  font-family: 'IBM Plex Mono', sans-serif; /* Fuente Bold */
+  font-weight: 700; /* Bold */
+  color: rgba(40, 2, 43, 1); /* Color morado oscuro */
+  text-align: left;
+}
+
+/* Botón del tacho con fondo transparente */
+.new-product-button {
+  background-color: transparent; /* Fondo transparente */
+  border: none; /* Sin bordes */
+  width: 40px; /* Ancho del botón reducido */
+  height: 40px; /* Alto del botón reducido */
+  border-radius: 50%; /* Hacer el botón circular */
+  position: absolute;
+  bottom: 10px; /* Posición desde la parte inferior */
+  right: 10px; /* Posición desde la parte derecha */
+  cursor: pointer; /* Cursor de mano al pasar sobre el botón */
+  
+  /* Imagen del tacho */
+  background-image: url('../images/v37_165.png'); /* Ruta de la imagen del tacho */
+  background-size: cover; /* Ajustar imagen para que cubra el botón */
+  background-position: center center; /* Centrar la imagen */
+}
+
+.v14_112 {
+  width: 244px;
+  height: 313px;
+  background: url("../images/v14_112.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 383px;
+  left: 277px;
+  overflow: hidden;
+}
+.v2_38 {
+  width: 244px;
+  height: 313px;
+  background: rgba(151,71,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border: 3px solid rgba(40,2,43,1);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v2_56 {
+  width: 204px;
+  height: 170px;
+  background: url("../images/v2_56.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 22px;
+  left: 20px;
+  border: 3px solid rgba(40,2,43,1);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v14_14 {
+  width: 142px;
+  color: rgba(40,2,43,1);
+  position: absolute;
+  top: 270px;
+  left: 20px;
+  font-family: IBM Plex Mono;
+  font-weight: Bold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v14_3 {
+  width: 204px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 218px;
+  left: 17px;
+  font-family: IBM Plex Mono;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v14_111 {
+  width: 246px;
+  height: 313px;
+  background: url("../images/v14_111.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 383px;
+  left: 18px;
+  overflow: hidden;
+}
+.v2_36 {
+  width: 246px;
+  height: 313px;
+  background: rgba(151,71,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border: 3px solid rgba(40,2,43,1);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v14_12 {
+  width: 142px;
+  color: rgba(40,2,43,1);
+  position: absolute;
+  top: 270px;
+  left: 18px;
+  font-family: IBM Plex Mono;
+  font-weight: Bold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v2_67 {
+  width: 211px;
+  color: rgba(40,2,43,1);
+  position: absolute;
+  top: 218px;
+  left: 18px;
+  font-family: IBM Plex Mono;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v2_53 {
+  width: 209px;
+  height: 174px;
+  background: url("../images/v2_53.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 21px;
+  left: 17px;
+  border: 3px solid rgba(40,2,43,1);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v14_110 {
+  width: 244px;
+  height: 313px;
+  background: url("../images/v14_110.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 20px;
+  left: 536px;
+  overflow: hidden;
+}
+.v2_32 {
+  width: 244px;
+  height: 313px;
+  background: rgba(151,71,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border: 3px solid rgba(40,2,43,1);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v14_10 {
+  width: 142px;
+  color: rgba(40,2,43,1);
+  position: absolute;
+  top: 273px;
+  left: 20px;
+  font-family: IBM Plex Mono;
+  font-weight: Bold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v2_65 {
+  width: 211px;
+  color: rgba(40,2,43,1);
+  position: absolute;
+  top: 220px;
+  left: 16px;
+  font-family: IBM Plex Mono;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v2_50 {
+  width: 208px;
+  height: 176px;
+  background: url("../images/v2_50.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 17px;
+  left: 19px;
+  border: 3px solid rgba(40,2,43,1);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v14_109 {
+  width: 244px;
+  height: 313px;
+  background: url("../images/v14_109.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 20px;
+  left: 277px;
+  overflow: hidden;
+}
+.v2_30 {
+  width: 244px;
+  height: 313px;
+  background: rgba(151,71,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border: 3px solid rgba(40,2,43,1);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v2_47 {
+  width: 210px;
+  height: 176px;
+  background: url("../images/v2_47.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 17px;
+  left: 17px;
+  border: 3px solid rgba(40,2,43,1);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v2_63 {
+  width: 211px;
+  color: rgba(40,2,43,1);
+  position: absolute;
+  top: 220px;
+  left: 20px;
+  font-family: IBM Plex Mono;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v14_8 {
+  width: 142px;
+  color: rgba(40,2,43,1);
+  position: absolute;
+  top: 273px;
+  left: 20px;
+  font-family: IBM Plex Mono;
+  font-weight: Bold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v14_108 {
+  width: 246px;
+  height: 313px;
+  background: url("../images/v14_108.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 20px;
+  left: 18px;
+  overflow: hidden;
+}
+.v2_29 {
+  width: 246px;
+  height: 313px;
+  background: rgba(151,71,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border: 3px solid rgba(40,2,43,1);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v2_44 {
+  width: 211px;
+  height: 176px;
+  background: url("../images/v2_44.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 17px;
+  left: 16px;
+  border: 3px solid rgba(40,2,43,1);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v14_6 {
+  width: 142px;
+  color: rgba(40,2,43,1);
+  position: absolute;
+  top: 273px;
+  left: 18px;
+  font-family: IBM Plex Mono;
+  font-weight: Bold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v14_6 {
+  width: 142px;
+  color: rgba(40, 2, 43, 1);
+  position: absolute;
+  top: 273px;
+  left: 18px;
+  font-family: 'IBM Plex Mono', monospace; /* Asegúrate de que la fuente esté entre comillas */
+  font-weight: 700; /* Usamos 700 para Bold, ya que es el peso de la fuente Bold */
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+
+.v2_61 {
+  width: 211px;
+  color: rgba(40,2,43,1);
+  position: absolute;
+  top: 220px;
+  left: 18px;
+  font-family: IBM Plex Mono;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v2_42 {
+  width: 13px;
+  height: 287px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 20px;
+  left: 820px;
+  overflow: hidden;
+}
+.v14_115 {
+  width: 430px;
+  height: 718px;
+  background: url("../images/v14_115.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 43px;
+  left: 45px;
+  overflow: hidden;
+}
+.v2_26 {
+  width: 430px;
+  height: 718px;
+  background: rgba(131,60,136,0.6800000071525574);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border: 3px solid rgba(40,2,43,1);
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v14_31 {
+  width: 392px;
+  color: rgba(40,2,43,1);
+  position: absolute;
+  top: 63px;
+  left: 19px;
+  font-family: Press Start 2P;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+.v14_31 {
+  width: 392px;
+  color: rgba(40, 2, 43, 1); /* Color del texto */
+  position: absolute;
+  top: 63px;
+  left: 19px;
+  font-family: 'Press Start 2P', cursive; /* Fuente y respaldo */
+  font-weight: normal; /* Cambiar "Regular" por "normal" */
+  font-size: 24px; /* Tamaño del texto */
+  opacity: 1;
+  text-align: center; /* Centrado del texto */
+}
+
+.v14_18 {
+  width: 578px;
+  color: rgba(40,2,43,1);
+  position: absolute;
+  top: 31px;
+  left: 648px;
+  font-family: Press Start 2P;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+.v14_18 {
+  width: 578px;
+  color: rgba(40, 2, 43, 1); /* Color de texto */
+  position: absolute;
+  top: 31px;
+  left: 648px;
+  font-family: 'Press Start 2P', cursive; /* Asegúrate de usar la fuente correctamente */
+  font-weight: normal; /* Cambiar "Regular" a "normal" */
+  font-size: 24px; /* Tamaño del texto */
+  opacity: 1;
+  text-align: center; /* Alineación del texto */
+}
+
+.v2_9 {
+  width: 100%;
+  height: 93px;
+  background: url("../images/v2_9.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v2_4 {
+  width: 100%;
+  height: 93px;
+  background: rgba(40,2,43,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v2_13 {
+  width: 146px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 28px;
+  left: 101px;
+  font-family: Inter;
+  font-weight: Black;
+  font-size: 22px;
+  opacity: 1;
+  text-align: left;
+}
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@900&display=swap');
+.v2_13 {
+  width: 146px;
+  color: rgba(255,255,255,1); /* Color blanco */
+  position: absolute;
+  top: 28px;
+  left: 90px;
+  font-family: 'Inter', sans-serif; /* Incluye una fuente de respaldo como 'sans-serif' */
+  font-weight: 900; /* Asegúrate de usar el peso correcto */
+  font-size: 22px;
+  opacity: 1;
+  text-align: left;
+}
+
+.v2_14 {
+  width: 61px;
+  height: 61px;
+  background: url("../v2_14.png");
+  opacity: 1;
+  position: absolute;
+  top: 16px;
+  left: 25px;
+  border-radius: 50%;
+}
+.v2_14 {
+  width: 61px;
+  height: 61px;
+  background: url("v2_14.png") no-repeat center center; /* Imagen centrada */
+  background-size: cover; /* La imagen cubre todo el círculo sin deformarse */
+  opacity: 1;
+  position: absolute; /* Mantiene la posición fija en la pantalla */
+  top: 15px; /* Ajusta la posición vertical */
+  left: 20px; /* Ajusta la posición horizontal */
+  border-radius: 50%; /* Hace el contenedor circular */
+  overflow: hidden; /* Asegura que la imagen no se salga del círculo */
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2); /* Agrega sombra para resaltar */
+}
+
+
+.v2_16 {
+  width: 253px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 39px;
+  left: 594px;
+  font-family: Press Start 2P;
+  font-weight: Regular;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+.v2_16 {
+  width: 253px;
+  color: rgba(255,255,255,1); /* Color blanco */
+  position: absolute;
+  top: 39px;
+  left: 594px;
+  font-family: 'Press Start 2P', cursive; /* Define la fuente con una alternativa */
+  font-weight: normal; /* Esta fuente no usa "Regular"; usa "normal" */
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+
+.v2_23 {
+  width: 133px;
+  height: 62px;
+  background: url("v2_23.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 12px;
+  left: 1290px;
+  overflow: hidden;
+}
+
+/* Botones basados en imágenes */
+.image-button {
+  width: 30px; /* Ancho del botón */
+  height: 27px; /* Alto del botón */
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  border: none; /* Sin bordes para que sea un botón limpio */
+  background-color: transparent; /* Fondo transparente */
+  cursor: pointer; /* Cambia el cursor a "pointer" para indicar interactividad */
+  position: absolute; /* Permite posicionarlos en el contenedor */
+  overflow: hidden; /* Asegura que no haya contenido saliendo del botón */
+  opacity: 1; /* Asegura la visibilidad */
+}
+
+/* Específicos para cada botón */
+.v37_173 {
+  background-image: url("../images/v37_173.png");
+  top: 272px;
+  left: 199px;
+}
+
+.v37_171 {
+  background-image: url("../images/v37_171.png");
+  top: 272px;
+  left: 199px; /* Ajusta según la posición deseada */
+}
+
+.v37_169 {
+  background-image: url("../images/v37_169.png");
+  top: 272px;
+  left: 199px; /* Ajusta según la posición deseada */
+}
+
+.v37_167 {
+  background-image: url("../images/v37_167.png");
+  top: 272px;
+  left: 199px; /* Ajusta según la posición deseada */
+}
+
+.v37_165 {
+  background-image: url("../images/v37_165.png");
+  top: 272px;
+  left: 199px; /* Ajusta según la posición deseada */
+}
+
+.v37_175 {
+  background-image: url("../images/v37_175.png");
+  top: 272px;
+  left: 199px; /* Ajusta según la posición deseada */
+}
+
+.image-button:active {
+  transform: scale(0.95); /* Agrega un efecto de clic */
+}
+
+.v4_1 {
+  width: 369px; /* Ancho del contenedor */
+  height: 60px; /* Altura del contenedor */
+  background-color: white; /* Fondo blanco */
+  border: 3px solid rgba(40, 2, 43, 1); /* Borde morado oscuro */
+  border-radius: 30px; /* Bordes ovalados */
+  position: absolute; /* Permite posicionarlo libremente */
+  top: 200px; /* Ajusta la posición vertical */
+  left: 30px; /* Ajusta la posición horizontal */
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Sombra opcional */
+  display: flex; /* Para centrar el input dentro del contenedor */
+  align-items: center; /* Centra verticalmente el input */
+  padding: 0 15px; /* Espaciado interno para el input */
+  z-index: 1; /* Controla la posición en capas */
+}
+
+.product-input {
+  width: 100%; /* Ocupa todo el ancho disponible del contenedor */
+  height: 100%; /* Ocupa toda la altura disponible */
+  border: none; /* Sin bordes adicionales */
+  outline: none; /* Elimina el borde azul al hacer clic */
+  font-size: 16px; /* Tamaño de fuente */
+  font-family: 'IBM Plex Mono', sans-serif; /* Fuente para el texto */
+  color: rgba(40, 2, 43, 1); /* Color del texto */
+  background: transparent; /* Fondo transparente para que tome el fondo del contenedor */
+  padding: 0 10px; /* Espaciado interno del texto */
+}
+
+.product-input::placeholder {
+  color: rgba(150, 150, 150, 1); /* Color del texto de placeholder */
+  font-style: italic; /* Estilo del placeholder */
+}
+
+.v4_2 {
+  width: 369px; /* Ancho del contenedor */
+  height: 60px; /* Altura del contenedor */
+  background-color: white; /* Fondo blanco */
+  border: 3px solid rgba(40, 2, 43, 1); /* Borde morado oscuro */
+  border-radius: 30px; /* Bordes ovalados */
+  position: absolute; /* Permite posicionarlo libremente */
+  top: 300px; /* Ajusta la posición vertical */
+  left: 30px; /* Ajusta la posición horizontal */
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Sombra opcional */
+  display: flex; /* Para centrar el input dentro del contenedor */
+  align-items: center; /* Centra verticalmente el input */
+  padding: 0 15px; /* Espaciado interno para el input */
+  z-index: 1; /* Controla la posición en capas */
+}
+
+.price-input {
+  width: 100%; /* Ocupa todo el ancho disponible del contenedor */
+  height: 100%; /* Ocupa toda la altura disponible */
+  border: none; /* Sin bordes adicionales */
+  outline: none; /* Elimina el borde azul al hacer clic */
+  font-size: 16px; /* Tamaño de fuente */
+  font-family: 'IBM Plex Mono', sans-serif; /* Fuente para el texto */
+  color: rgba(40, 2, 43, 1); /* Color del texto */
+  background: transparent; /* Fondo transparente para que tome el fondo del contenedor */
+  padding: 0 10px; /* Espaciado interno del texto */
+  text-align: left; /* Centra el texto horizontalmente */
+}
+
+.price-input::placeholder {
+  color: rgba(150, 150, 150, 1); /* Color del texto de placeholder */
+  font-style: italic; /* Estilo del placeholder */
+}
+
+.v4_3 {
+  width: 369px; /* Ancho del contenedor */
+  height: 60px; /* Altura del contenedor */
+  background-color: white; /* Fondo blanco */
+  border: 3px solid rgba(40, 2, 43, 1); /* Borde morado oscuro */
+  border-radius: 30px; /* Bordes ovalados */
+  position: absolute; /* Permite posicionarlo libremente */
+  top: 400px; /* Ajusta la posición vertical */
+  left: 30px; /* Ajusta la posición horizontal */
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Sombra opcional */
+  display: flex; /* Para centrar el input dentro del contenedor */
+  align-items: center; /* Centra verticalmente el input */
+  padding: 0 10px; /* Espaciado interno para el input */
+  z-index: 1; /* Controla la posición en capas */
+}
+
+.image-input {
+  width: 100%; /* Ocupa todo el ancho disponible del contenedor */
+  height: 100%; /* Ocupa toda la altura disponible */
+  border: none; /* Sin bordes adicionales */
+  outline: none; /* Elimina el borde azul al hacer clic */
+  font-size: 12px; /* Tamaño de fuente */
+  font-family: 'IBM Plex Mono', sans-serif; /* Fuente para el texto */
+  color: rgba(40, 2, 43, 1); /* Color del texto */
+  background: transparent; /* Fondo transparente para que tome el fondo del contenedor */
+  padding: 0 15px; /* Espaciado interno del texto */
+  text-align: center; /* Centra el texto horizontalmente */
+}
+
+.image-input::-webkit-file-upload-button {
+  background: transparent; /* Fondo transparente para el botón */
+  color: rgba(40, 2, 43, 1); /* Color del texto del botón */
+  border: none; /* Elimina el borde del botón */
+  font-family: 'IBM Plex Mono', sans-serif; /* Fuente del botón */
+  font-size: 12px; /* Tamaño de fuente */
+  cursor: pointer; /* Apunta al cursor sobre el botón */
+  padding: 5px 10px; /* Espaciado del botón */
+}
+
+.image-input::-webkit-file-upload-button:hover {
+  color: rgba(131, 60, 136, 1); /* Cambia el color del texto al pasar el ratón */
+}
+
+.image-input::placeholder {
+  color: rgba(150, 150, 150, 1); /* Color del texto de placeholder */
+  font-style: italic; /* Estilo del placeholder */
+}
+
+.v4_4 {
+  width: 180px; /* Ajusta el ancho del botón */
+  height: 50px; /* Ajusta la altura del botón */
+  background-color: rgba(40, 2, 43, 1); /* Fondo morado */
+  color: white; /* Color del texto blanco */
+  font-family: 'IBM Plex Mono', sans-serif; /* Fuente IBM Plex Mono */
+  font-size: 16px; /* Tamaño de la fuente */
+  font-weight: bold; /* Hacemos el texto en negrita */
+  border: 2px solid rgba(40, 2, 43, 1); /* Borde morado oscuro */
+  border-radius: 20px; /* Bordes ovalados */
+  display: flex; /* Flexbox para centrar el texto */
+  justify-content: center; /* Centra el texto horizontalmente */
+  align-items: center; /* Centra el texto verticalmente */
+  cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+  position: absolute; /* Permite posicionar el botón libremente */
+  top: 600px; /* Ajusta la posición vertical */
+  left: 30px; /* Ajusta la posición horizontal */
+  z-index: 1; /* Controla la posición sobre otros elementos */
+  transition: background-color 0.3s; /* Transición para efectos */
+}
+
+.v4_4:hover {
+  background-color: rgba(150, 70, 150, 1); /* Cambia el color de fondo al pasar el ratón */
+}
+
+.v4_4:active {
+  background-color: rgba(100, 50, 100, 1); /* Cambia el color de fondo al hacer clic */
+}
+
+.v4_5 {
+  width: 180px; /* Ajusta el ancho del botón */
+  height: 50px; /* Ajusta la altura del botón */
+  background-color: white; /* Fondo blanco */
+  color: rgba(40, 2, 43, 1); /* Color del texto morado oscuro */
+  font-family: 'IBM Plex Mono', sans-serif; /* Fuente IBM Plex Mono */
+  font-size: 16px; /* Tamaño de la fuente */
+  font-weight: bold; /* Texto en negrita */
+  border: 3px solid rgba(40, 2, 43, 1); /* Borde morado oscuro de 3px */
+  border-radius: 20px; /* Bordes ovalados */
+  display: flex; /* Flexbox para centrar el texto */
+  justify-content: center; /* Centra el texto horizontalmente */
+  align-items: center; /* Centra el texto verticalmente */
+  cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+  position: absolute; /* Permite posicionar el botón libremente */
+  top: 600px; /* Ajusta la posición vertical */
+  left: 220px; /* Ajusta la posición horizontal */
+  z-index: 1; /* Controla la posición sobre otros elementos */
+  transition: background-color 0.3s, color 0.3s; /* Transición para efectos */
+}
+
+.v4_5:hover {
+  background-color: rgba(131, 60, 136, 1); /* Cambia el color de fondo al pasar el ratón */
+  color: white; /* Cambia el color del texto a blanco en hover */
+}
+
+.v4_5:active {
+  background-color: rgba(100, 50, 100, 1); /* Cambia el color de fondo al hacer clic */
+  color: white; /* Mantiene el texto blanco al hacer clic */
+}
+
